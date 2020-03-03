@@ -1,4 +1,4 @@
-# music
+# 小小音乐(基于VUE的移动端音乐小程序)
 
 ## Project setup
 ```
